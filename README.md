@@ -1,1 +1,1 @@
-# SOC-Threat-Detection-Alert-Triage-Lab
+# SOC-Splunk-Threat-Detection-Alert-Triage-Lab
