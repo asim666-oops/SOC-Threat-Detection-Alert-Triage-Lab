@@ -44,7 +44,7 @@ The lab simulates real attacker behavior and SOC workflows using:
 - Port enumeration
 
 ### Credential Access
-- Brute force attacks (RDP/SMB)
+- Brute force attacks
 - Manual
 
 ---
