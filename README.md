@@ -10,7 +10,7 @@ The lab simulates real attacker behavior and SOC workflows using:
 - Kali Linux (Attacker)
 - Windows 10 (Victim Endpoint)
 - Ubuntu Linux (Splunk SIEM)
-- Windows Event Logs (No Sysmon)
+- Windows Event Logs
 
 ---
 
